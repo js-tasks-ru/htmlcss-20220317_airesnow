@@ -1,0 +1,25 @@
+h1 { color: aqua; 
+    background-color: black; 
+    text-align: center;
+font-size: 80px;
+font-family: 'Times New Roman', Times, serif;}
+nav { text-align: center; 
+    background-color: #ff10dd;
+    font-size: 30px;}
+    * {padding: 1; margin: 0;}
+main
+article {background-color: aquamarine;
+border: 10px solid #21aa33;}
+h2 {color: rgb(39, 97, 97); 
+font-size: 30px;
+padding: 15px;}
+ul { text-align: left; 
+    font-size: 20px;
+color: aliceblue;}
+ol { text-align: left; 
+    font-size: 20px;
+color: aliceblue;}
+footer {background-color: bisque;
+text-align: center;
+font-size: 35px;
+font-family: Arial, Helvetica, sans-serif;}
